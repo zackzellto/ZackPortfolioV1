@@ -1,0 +1,12 @@
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\bin\Debug\net6.0\ZackPortfolioV1.Domain.deps.json
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\bin\Debug\net6.0\ZackPortfolioV1.Domain.dll
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\bin\Debug\net6.0\ZackPortfolioV1.Domain.pdb
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\obj\Debug\net6.0\ZackPortfolioV1.Domain.csproj.AssemblyReference.cache
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\obj\Debug\net6.0\ZackPortfolioV1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\obj\Debug\net6.0\ZackPortfolioV1.Domain.AssemblyInfoInputs.cache
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\obj\Debug\net6.0\ZackPortfolioV1.Domain.AssemblyInfo.cs
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\obj\Debug\net6.0\ZackPortfolioV1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\obj\Debug\net6.0\ZackPortfolioV1.Domain.dll
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\obj\Debug\net6.0\refint\ZackPortfolioV1.Domain.dll
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\obj\Debug\net6.0\ZackPortfolioV1.Domain.pdb
+C:\Users\zacha\Desktop\SE-Projects\ZackPortfolioV1\ZaackPortfolioV1.Domain\obj\Debug\net6.0\ref\ZackPortfolioV1.Domain.dll
